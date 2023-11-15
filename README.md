@@ -1,2 +1,3 @@
-# Matlab
-Just doing some of my collage matlab project
+# Numerical method
+college projects of course Numerical method
+in which we have to analyse data with some selected algorithm 
